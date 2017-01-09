@@ -1,3 +1,3 @@
 language: shell
-script: script.sh 20000.log s3://technical-srikanth
+script: ./script.sh 20000.log s3://technical-srikanth
 
